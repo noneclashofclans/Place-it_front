@@ -1,1 +1,3 @@
 # Place-it_front
+
+This repo contains all the code for frontend works...
